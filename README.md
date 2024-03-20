@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rallgaier99
-- 👀 I’m interested in learning! I am currently a SWE learning React within my role, but really want to go back to school to get more into cybersecurity
-- 🌱 I’m currently learning React, C, Javascript. Also been reading up on the basics of cybersecurity
+- 👋 Hi, I’m Rachel Allgaier!
+- 👀 I am currently pursuing a Master's degree from Georgia Tech in Computer Science while working full-time in a Software Engineering role
+- 🌱 I’m currently learning more about React on the job, and going more into AI concepts in school 
 - 💞️ I’m looking to collaborate on really anything - I love coding, but really have a hard time with the creativity aspect of coming up with projects.
 - 📫 How to reach me: rayray.allgaier@gmail.com
 
